@@ -1,7 +1,7 @@
 name: Exam2022
 version: 1.0
 main: ru.algocode.exam2022.Exam2022
-api-version: 1.18
+api-version: '26.1.2'
 depend: [ChunkyBorder]
 commands:
   addspawn:
